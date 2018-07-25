@@ -1,0 +1,7 @@
+node_modules/
+main-linux
+main-macos
+main-win.exe
+data.xlsx
+test.js
+.sonarqube/
